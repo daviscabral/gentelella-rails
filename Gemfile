@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 source 'https://rails-assets.org'
 
+gem 'rails-assets-icheck'
+
 # Declare your gem's dependencies in gentelella-rails.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
 # development dependencies will be added by default to the :development group.

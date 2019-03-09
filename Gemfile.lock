@@ -137,6 +137,7 @@ PLATFORMS
 
 DEPENDENCIES
   gentelella-rails!
+  rails-assets-icheck
   sqlite3
 
 BUNDLED WITH
