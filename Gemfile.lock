@@ -14,7 +14,7 @@ PATH
       nprogress-rails
       parsley-rails
       rails-assets-DateJS
-      rails-assets-icheck
+      rails-assets-iCheck
       railties (>= 4.0)
       sassc-rails (>= 2.1.0)
       select2-rails
@@ -92,7 +92,7 @@ GEM
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails-assets-DateJS (1.0.0.rc3)
-    rails-assets-icheck (1.0.2)
+    rails-assets-iCheck (1.0.2)
       rails-assets-jquery (>= 1.7)
     rails-assets-jquery (3.3.1)
     rails-dom-testing (2.0.3)
@@ -140,8 +140,8 @@ PLATFORMS
 DEPENDENCIES
   gentelella-rails!
   rails-assets-DateJS!
-  rails-assets-icheck!
+  rails-assets-iCheck!
   sqlite3
 
 BUNDLED WITH
-   1.17.3
+   2.0.1

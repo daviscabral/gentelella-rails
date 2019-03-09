@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails-assets-DateJS', source: 'https://rails-assets.org'
-gem 'rails-assets-icheck', source: 'https://rails-assets.org'
+gem 'rails-assets-iCheck', source: 'https://rails-assets.org'
 
 # Declare your gem's dependencies in gentelella-rails.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and

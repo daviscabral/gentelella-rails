@@ -14,13 +14,10 @@ Gem::Specification.new do |s|
 
   s.files = Dir['{assets,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md']
 
-  s.add_runtime_dependency 'coffee-rails'
-  s.add_runtime_dependency 'railties', '>= 4.0'
-  s.add_runtime_dependency 'sassc-rails', '>= 2.1.0'
-
   s.add_runtime_dependency 'bootstrap-daterangepicker-rails', '>= 0.1.7'
   s.add_runtime_dependency 'bootstrap-sass', '~> 3.4.1'
   s.add_runtime_dependency 'chart-js-rails'
+  s.add_runtime_dependency 'coffee-rails'
   s.add_runtime_dependency 'fastclick-rails'
   s.add_runtime_dependency 'flot-rails'
   s.add_runtime_dependency 'font-awesome-sass', '~> 5.6.1'
@@ -29,7 +26,9 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'nprogress-rails'
   s.add_runtime_dependency 'parsley-rails'
   s.add_runtime_dependency 'rails-assets-DateJS'
-  s.add_runtime_dependency 'rails-assets-icheck'
+  s.add_runtime_dependency 'rails-assets-iCheck'
+  s.add_runtime_dependency 'railties', '>= 4.0'
+  s.add_runtime_dependency 'sassc-rails', '>= 2.1.0'
   s.add_runtime_dependency 'select2-rails'
   s.add_runtime_dependency 'switchery-rails'
 

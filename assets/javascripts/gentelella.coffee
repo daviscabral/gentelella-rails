@@ -1,4 +1,5 @@
 #= require DateJS
+#= require iCheck
 #= require jquery
 #= require jquery_ujs
 #= require bootstrap
@@ -6,7 +7,6 @@
 #= require moment-with-locales.js
 #= require daterangepicker
 #= require nprogress
-#= require icheck
 #= require jquery.vmap.js
 #= require fastclick
 #= require Chart.min
