@@ -24,11 +24,11 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'fastclick-rails'
   s.add_runtime_dependency 'flot-rails'
   s.add_runtime_dependency 'font-awesome-sass', '~> 5.6.1'
-  s.add_runtime_dependency 'icheck-rails'
   s.add_runtime_dependency 'jquery-rails'
   s.add_runtime_dependency 'momentjs-rails'
   s.add_runtime_dependency 'nprogress-rails'
   s.add_runtime_dependency 'parsley-rails'
+  s.add_runtime_dependency 'rails-assets-icheck'
   s.add_runtime_dependency 'select2-rails'
   s.add_runtime_dependency 'switchery-rails'
 
