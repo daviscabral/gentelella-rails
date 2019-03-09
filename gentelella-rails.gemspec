@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'momentjs-rails'
   s.add_runtime_dependency 'nprogress-rails'
   s.add_runtime_dependency 'parsley-rails'
+  s.add_runtime_dependency 'rails-assets-DateJS'
   s.add_runtime_dependency 'rails-assets-icheck'
   s.add_runtime_dependency 'select2-rails'
   s.add_runtime_dependency 'switchery-rails'

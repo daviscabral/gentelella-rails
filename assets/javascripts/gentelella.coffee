@@ -1,3 +1,4 @@
+#= require DateJS
 #= require jquery
 #= require jquery_ujs
 #= require bootstrap
@@ -11,7 +12,6 @@
 #= require Chart.min
 #= require gauge
 #= require skycons
-#= require date
 #= require jquery.flot
 #= require jquery.flot.pie
 #= require jquery.flot.time

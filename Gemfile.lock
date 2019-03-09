@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gentelella-rails (0.1.11)
+    gentelella-rails (0.1.12)
       bootstrap-daterangepicker-rails (>= 0.1.7)
       bootstrap-sass (~> 3.4.1)
       chart-js-rails
@@ -13,6 +13,7 @@ PATH
       momentjs-rails
       nprogress-rails
       parsley-rails
+      rails-assets-DateJS
       rails-assets-icheck
       railties (>= 4.0)
       sassc-rails (>= 2.1.0)
@@ -41,7 +42,7 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    autoprefixer-rails (9.4.10.1)
+    autoprefixer-rails (9.4.10.2)
       execjs
     bootstrap-daterangepicker-rails (3.0.3)
       railties (>= 4.0, < 5.3)
@@ -90,6 +91,7 @@ GEM
     rack (2.0.6)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
+    rails-assets-DateJS (1.0.0.rc3)
     rails-assets-icheck (1.0.2)
       rails-assets-jquery (>= 1.7)
     rails-assets-jquery (3.3.1)
@@ -137,6 +139,7 @@ PLATFORMS
 
 DEPENDENCIES
   gentelella-rails!
+  rails-assets-DateJS
   rails-assets-icheck
   sqlite3
 

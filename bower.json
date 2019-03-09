@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "gentelella": "^1.4.0"
+    "gentelella": "ColorlibHQ/gentelella"
   }
 }
