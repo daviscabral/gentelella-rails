@@ -16,14 +16,14 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'coffee-rails'
   s.add_runtime_dependency 'railties', '>= 4.0'
-  s.add_runtime_dependency 'sass-rails', '>= 5.0.7'
+  s.add_runtime_dependency 'sassc-rails', '>= 2.1.0'
 
   s.add_runtime_dependency 'bootstrap-daterangepicker-rails', '>= 0.1.7'
   s.add_runtime_dependency 'bootstrap-sass', '~> 3.4.1'
   s.add_runtime_dependency 'chart-js-rails'
   s.add_runtime_dependency 'fastclick-rails'
   s.add_runtime_dependency 'flot-rails'
-  s.add_runtime_dependency 'font-awesome-sass', '~> 4.7.0'
+  s.add_runtime_dependency 'font-awesome-sass', '~> 5.6.1'
   s.add_runtime_dependency 'icheck-rails'
   s.add_runtime_dependency 'jquery-rails'
   s.add_runtime_dependency 'momentjs-rails'
