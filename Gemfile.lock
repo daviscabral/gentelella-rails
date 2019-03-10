@@ -139,8 +139,9 @@ PLATFORMS
 
 DEPENDENCIES
   gentelella-rails!
-  rails-assets-DateJS!
-  rails-assets-iCheck!
+  jquery-rails
+  rails-assets-DateJS
+  rails-assets-iCheck
   sqlite3
 
 BUNDLED WITH

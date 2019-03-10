@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
+source 'https://rails-assets.org'
 
-gem 'rails-assets-DateJS', source: 'https://rails-assets.org'
-gem 'rails-assets-iCheck', source: 'https://rails-assets.org'
+gem 'rails-assets-DateJS'
+gem 'rails-assets-iCheck'
 
 # Declare your gem's dependencies in gentelella-rails.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
@@ -12,6 +13,8 @@ gemspec
 # your gemspec. These might include edge Rails or gems from your path or
 # Git. Remember to move these dependencies to your gemspec before releasing
 # your gem to rubygems.org.
+
+gem 'jquery-rails'
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
