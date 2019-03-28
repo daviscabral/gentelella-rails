@@ -1,5 +1,4 @@
 #= require jquery
-#= require jquery_ujs
 #= require bootstrap
 #= require bootstrap-progressbar
 #= require moment-with-locales.js

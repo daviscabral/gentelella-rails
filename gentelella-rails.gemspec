@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.files = Dir['{assets,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md']
 
   s.add_runtime_dependency 'coffee-rails'
-  s.add_runtime_dependency 'railties', '>= 4.0'
+  s.add_runtime_dependency 'railties', '>= 5.1'
   s.add_runtime_dependency 'sassc-rails', '>= 2.1.0'
 
   s.add_runtime_dependency 'bootstrap-daterangepicker-rails', '>= 0.1.7'
