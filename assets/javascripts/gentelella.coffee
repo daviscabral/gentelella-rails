@@ -1,6 +1,8 @@
 #= require jquery
 #= require bootstrap
 #= require bootstrap-progressbar
+#= require cropper
+#= require jquery-cropper
 #= require moment-with-locales.js
 #= require daterangepicker
 #= require nprogress
@@ -31,7 +33,7 @@
 #= require select2-full
 #= require parsley
 #= require autosize
-#= require data_tables
+#= require dataTables
 #= require jszip
 #= require pdfmake
 #= require vfs_fonts

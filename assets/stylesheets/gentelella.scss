@@ -1,3 +1,5 @@
+//= require 'cropper';
+
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
 @import 'bootstrap/progress-bars';
@@ -27,11 +29,11 @@
 
 @import 'parsley';
 
-@import 'data_tables/net-bs.bootstrap';
-@import 'data_tables/net-buttons-bs.buttons';
-@import 'data_tables/net-fixedheader-bs.bootstrap';
-@import 'data_tables/net-responsive-bs.bootstrap';
-@import 'data_tables/net-scroller-bs.bootstrap';
+@import 'data-tables/net-bs.bootstrap';
+@import 'data-tables/net-buttons-bs.buttons';
+@import 'data-tables/net-fixedheader-bs.bootstrap';
+@import 'data-tables/net-responsive-bs.bootstrap';
+@import 'data-tables/net-scroller-bs.bootstrap';
 
 @import 'fullcalendar';
 

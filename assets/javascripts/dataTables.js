@@ -1,0 +1,12 @@
+//= require data-tables/jquery.dataTables
+//= require data-tables/net-bs.bootstrap
+//= require data-tables/net-buttons.buttons
+//= require data-tables/net-buttons.buttons.flash
+//= require data-tables/net-buttons.buttons.html5
+//= require data-tables/net-buttons.buttons.print
+//= require data-tables/net-buttons-bs.buttons
+//= require data-tables/net-fixedheader
+//= require data-tables/net-keytable
+//= require data-tables/net-responsive
+//= require data-tables/net-responsive-bs
+//= require data-tables/net-scroller
