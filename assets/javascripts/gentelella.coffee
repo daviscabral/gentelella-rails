@@ -1,8 +1,8 @@
 #= require jquery
 #= require bootstrap
 #= require bootstrap-progressbar
-#= require cropper/cropper
-#= require cropper/jquery-cropper
+#= require cropper
+#= require jquery-cropper
 #= require moment-with-locales.js
 #= require daterangepicker
 #= require nprogress
@@ -12,7 +12,7 @@
 #= require Chart.min
 #= require gauge
 #= require skycons
-#= require date
+#= require DateJS
 #= require jquery.flot
 #= require jquery.flot.pie
 #= require jquery.flot.time
@@ -25,6 +25,7 @@
 #= require jquery.sparkline
 #= require jquery.hotkeys
 #= require jquery.tagsinput
+#= require jquery.smartWizard
 #= require jquery.autocomplete
 #= require prettify
 #= require switchery
