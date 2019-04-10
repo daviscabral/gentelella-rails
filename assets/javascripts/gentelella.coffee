@@ -1,8 +1,8 @@
 #= require jquery
 #= require bootstrap
 #= require bootstrap-progressbar
-#= require cropper
-#= require jquery-cropper
+#= require cropper/cropper
+#= require cropper/jquery-cropper
 #= require moment-with-locales.js
 #= require daterangepicker
 #= require nprogress

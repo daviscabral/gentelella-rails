@@ -29,6 +29,11 @@ namespace :bower do
     cp_asset 'bower_components/gentelella/vendors/bootstrap-wysiwyg/css/style.css', nil, 'bootstrap-wysiwyg.css'
     cp_asset 'bower_components/gentelella/vendors/bootstrap-wysiwyg/src/bootstrap-wysiwyg.js'
     cp_asset 'bower_components/gentelella/vendors/Chart.js/dist/Chart.js'
+
+    cp_asset 'bower_components/gentelella/vendors/cropperjs/dist/cropper.css', 'cropper'
+    cp_asset 'bower_components/gentelella/vendors/cropperjs/dist/cropper.js', 'cropper'
+    cp_asset 'bower_components/gentelella/vendors/jquery-cropper/dist/jquery-cropper.js', 'cropper'
+
     cp_asset 'bower_components/gentelella/vendors/datatables.net-bs/css/dataTables.bootstrap.css', 'data-tables', 'net-bs.bootstrap.css'
     cp_asset 'bower_components/gentelella/vendors/datatables.net-bs/js/dataTables.bootstrap.js', 'data-tables', 'net-bs.bootstrap.js'
     cp_asset 'bower_components/gentelella/vendors/datatables.net-buttons-bs/css/buttons.bootstrap.css', 'data-tables', 'net-buttons-bs.buttons.css'
